@@ -10,7 +10,7 @@
 ```
     final static String accPath = "."+File.separator+"accounts.txt";
     final static String relaPath = "."+File.separator+"relations.txt";
-    final static String resPath = "."+File.separator+"result"+System.currentTimeMillis()+".txt";
+    final static String resPath = "."+File.separator+"result.txt";
 ```
 **将accounts.txt与relations.txt两个文件放到src\raw_data文件夹下，输出结果将产生在prediction_result文件夹下**
 
