@@ -16,7 +16,7 @@ public class Main {
     //打成jar包时使用的相对路径
 //    final static String accPath = "."+File.separator+"accounts.txt";
 //    final static String relaPath = "."+File.separator+"relations.txt";
-//    final static String resPath = "."+File.separator+"result"+System.currentTimeMillis()+".txt";
+   // final static String resPath = "."+File.separator+"result.txt";
 
     //本地执行main类时使用的相对路径
     final static String accPath = "src\\raw_data\\accounts.txt";
